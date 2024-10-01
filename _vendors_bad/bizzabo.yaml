@@ -3,7 +3,7 @@ base_pricing: 1497
 currency: USD
 free_sso_providers:
 name: Bizzabo
-notes: 3 User Minimum. You can add SSO to a plan for $999.
+notes: $499/u/m, 3 User Minimum. You can add SSO to a plan for $999.
 pricing_scheme: per user/month
 pricing_sources:
   - https://www.bizzabo.com/pricing
